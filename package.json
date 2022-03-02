@@ -34,5 +34,8 @@
     "plugins": [
       "@babel/plugin-proposal-export-default-from"
     ]
-  }
+  },
+  "keywords": [],
+  "name": "testing-rules-ui-v2",
+  "description": ""
 }
